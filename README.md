@@ -17,6 +17,6 @@ This repository can be added as an **extension** in MakeCode.
 * open [makecode_microbit](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/Matrix-Robotics/pxt-mj2-joystick** and import
+* search for **https://github.com/Matrix-Robotics/pxt-MatrixMJ2** and import
 
 > reference https://github.com/gbraad/pxt-ps2-controller
