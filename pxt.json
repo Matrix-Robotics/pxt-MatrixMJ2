@@ -1,0 +1,21 @@
+{
+    "name": "MatrixMJ2",
+    "version": "1.0.0",
+    "description": "Microbit Makecode Extension to use a MATRIX MJ2 Joystick with MATRIX Micro",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "mj2controller.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
